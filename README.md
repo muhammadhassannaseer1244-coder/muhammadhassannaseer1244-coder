@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building eff
 - 🌱 Continuously learning and improving my skills
 - 💡 Interested in web development, APIs, and software architecture
 - 🎯 Goal: Build impactful solutions that solve real-world problems
-- 📍 Location: [Add your location]
-- 📧 Contact: [Your email or LinkedIn]
+- 📍 Location: Sialkot
+- 📧 Contact: dev.hassan.naseer@gmail.com
 
 ---
 
