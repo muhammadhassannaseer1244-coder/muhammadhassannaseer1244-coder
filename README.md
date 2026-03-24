@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building eff
 
 ## 🎯 Featured Projects
 
-### Project 1: [Project Name]
+### Project 1: [RealVault — Video Review & Approval Platform]
 - **Description:** Brief description of what this project does
 - **Tech Stack:** Technologies used
 - **Repository:** [Link to repo]
